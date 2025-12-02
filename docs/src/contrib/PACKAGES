@@ -1,3 +1,13 @@
+Package: BioGeoBEARS
+Version: 1.1.3
+Depends: R (>= 3.5.0)
+Imports: methods, optimx, parallel, plotrix, gdata, GenSA, rexpokit, cladoRcpp, ape, phylobase, phytools, FD, minqa, expm, devtools, fdrtool, httr, statmod,
+                  SparseM, spam, stringr, MultinomialCI
+Suggests: testthat
+License: GPL (>= 2)
+MD5sum: 31166c6d3b7df5631119b055ded9902d
+NeedsCompilation: no
+
 Package: drat
 Version: 0.1.8
 Depends: R (>= 3.2.0)
