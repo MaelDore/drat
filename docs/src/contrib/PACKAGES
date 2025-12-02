@@ -24,11 +24,3 @@ Suggests: knitr, rmarkdown, setRNG, BB, ucminf, minqa, dfoptim, lbfgsb3c, lbfgs,
 License: GPL-2
 MD5sum: 657a8a621309a287fd94eb8d67d1a77d
 NeedsCompilation: no
-
-Package: optimx
-Version: 2024-12.2
-Imports: numDeriv, nloptr, pracma
-Suggests: knitr, rmarkdown, setRNG, BB, ucminf, minqa, dfoptim, lbfgsb3c, lbfgs, subplex, marqLevAlg, testthat (>= 3.0.0), R.rsp
-License: GPL-2
-MD5sum: 657a8a621309a287fd94eb8d67d1a77d
-NeedsCompilation: no
