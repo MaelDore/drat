@@ -1,11 +1,19 @@
 Package: BioGeoBEARS
 Version: 1.1.3
 Depends: R (>= 3.5.0)
-Imports: methods, optimx, parallel, plotrix, gdata, GenSA, rexpokit, cladoRcpp, ape, phylobase, phytools, FD, minqa, expm, devtools, fdrtool, httr, statmod,
-                  SparseM, spam, stringr, MultinomialCI
+Imports: methods, optimx, parallel, plotrix, gdata, GenSA, rexpokit, cladoRcpp, ape, phylobase, phytools, FD, minqa, expm, devtools, fdrtool, httr, statmod, SparseM, spam,
+                   stringr, MultinomialCI
 Suggests: testthat
 License: GPL (>= 2)
 MD5sum: 31166c6d3b7df5631119b055ded9902d
+NeedsCompilation: no
+
+Package: contsimmap
+Version: 0.1.0
+Depends: R (>= 4.1), ape (>= 5.5), phytools (>= 0.7-80)
+Imports: methods
+License: GPL-3 + file LICENSE
+MD5sum: bc25219103d07b666ff443735cdb67a9
 NeedsCompilation: no
 
 Package: drat
